@@ -5,6 +5,14 @@ target/
 .idea/
 .iml
 *.iml
+*.key
+*key
+*_key
+key
+*.key.PUB
+*key.PUB
+key.PUB
+.idea/
 
 ### IntelliJ IDEA ###
 .idea/modules.xml
@@ -16,6 +24,14 @@ target/
 *.ipr
 .idea/
 *.idea/
+*.key
+*key
+*_key
+*.key.PUB
+*key.PUB
+*_key.PUB
+
+
 
 ### Eclipse ###
 .apt_generated
